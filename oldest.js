@@ -75,6 +75,15 @@ function oldest() {
     return;
 }
 
+function mostChildren() {
+    return;
+}
+
 const o = oldest(tree);
+const m = oldest(tree);
+
 console.log('Elze nugyveno 107 metus.');
 console.log(o);
+
+console.log('Petriukas turejo 3 vaikus.');
+console.log(m);
